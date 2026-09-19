@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.db
+*.db-*
+*.sqlite*
+reports/
+FACE_ID/faces/*
+!FACE_ID/faces/README.md
+.env
+.pytest_cache/
